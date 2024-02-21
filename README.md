@@ -13,4 +13,5 @@ HR аналитики на компьютерах.  Часто некоторы�
 
 ### Результат:
 https://public.tableau.com/app/profile/sergei.shipitsyn/viz/ShipitsynSSatisfaction/Dashboard1
-![image](https://github.com/sersh13/Tableau_Satisfaction/assets/159818742/92b30664-f474-4b2f-9add-2626597dcdb5) 
+![image](https://github.com/sersh13/Tableau_Satisfaction/assets/159818742/de1d2286-c89c-4f48-8633-aab46fe1de9f)
+
